@@ -19,7 +19,8 @@
     -   <img src = "https://github.com/hunghvu/hunghvu/blob/master/img/email.svg" alt = "My email"> hunghvu2017@gmail.com
 
     -   My GitHub page :arrow_right: https://hunghvu.github.io/
-
+    
+![](https://komarev.com/ghpvc/?username=hunghvu)
 
 ![Hung Vu's github stats](https://github-readme-stats.vercel.app/api?username=hunghvu&hide=contribs,prs)
 
