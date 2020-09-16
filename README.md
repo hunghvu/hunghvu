@@ -22,7 +22,9 @@
     
 ![](https://komarev.com/ghpvc/?username=hunghvu)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghvu)
 ![Hung Vu's github stats](https://github-readme-stats.vercel.app/api?username=hunghvu&hide=contribs,prs)
+
 
 <!--
 **hunghvu/hunghvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
