@@ -1,10 +1,8 @@
 ### `Hello world` 👋
 
--   🔭 I’m currently working on [Dynamic Wallpaper](https://github.com/hunghvu/dynamic-wallpaper).
+-   :fire: Java (Android), Relational Database, and some experience in JavaScript, Python, C.
 
--   🌱 I’m currently learning RESTful APIs, Database, Python and C.
-
--   :fire: Java
+-   🔭 Some of my projects: [Dynamic Wallpaper](https://github.com/hunghvu/dynamic-wallpaper), [Com Chat](https://github.com/hunghvu/com-chat)
 
 -   :heartbeat: Networking, Smart devices, :musical_note:, and PC :racing_car:
 
