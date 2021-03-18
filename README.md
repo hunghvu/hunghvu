@@ -1,10 +1,10 @@
-### `Hello world` 👋
+### `Welcome` 👋
 
--   :fire: Java (Android), Relational Database, and some experience in JavaScript, Python, C.
+-   :fire: Java (Android), JavaScript, HTML, CSS, Node.js and some experience in Python, C.
 
--   🔭 Some of my projects: [Dynamic Wallpaper](https://github.com/hunghvu/dynamic-wallpaper), [Com Chat](https://github.com/hunghvu/com-chat)
+-   🔭 Some of my projects: [8-Bit Armageddon](https://github.com/hunghvu/8-bit-armageddon), [Bullet Hell](https://github.com/hunghvu/bullet-hell), [Com Chat](https://github.com/hunghvu/com-chat), [Dynamic Wallpaper](https://github.com/hunghvu/dynamic-wallpaper), 
 
--   :heartbeat: Networking, Smart devices, :musical_note:, and PC :racing_car:
+-   :heartbeat: Networking, IoT, :musical_note:, and PC :racing_car:
 
 -   📫 How to reach me :point_down:
 
@@ -13,15 +13,16 @@
 
         <a href = "https://github.com/hunghvu">
             <img src = "https://github.com/hunghvu/hunghvu/blob/master/img/git-hub.svg" alt = "My GitHub profile"> </a>
-
-    -   <img src = "https://github.com/hunghvu/hunghvu/blob/master/img/email.svg" alt = "My email"> hunghvu2017@gmail.com
-
-    -   My GitHub page :arrow_right: https://hunghvu.github.io/
+            
+        <a href="mailto:hunghvu2017@gmail.com">
+            <img src = "https://github.com/hunghvu/hunghvu/blob/master/img/email.svg" alt = "My email"></a>
     
-![](https://komarev.com/ghpvc/?username=hunghvu)
+    -   Portfolio :arrow_right: https://hunghvu.github.io/
+
+
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghvu)
-![Hung Vu's github stats](https://github-readme-stats.vercel.app/api?username=hunghvu&hide=contribs,prs)
+
 
 
 <!--
